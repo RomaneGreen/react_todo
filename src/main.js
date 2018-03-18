@@ -1,6 +1,7 @@
 import React from 'react';
-import {AddNewTask} from './addtask';
 import {ToDoAppList} from './applist';
+import {AddNewTask} from './addtask';
+
 
 export class Todo extends React.Component {
 
